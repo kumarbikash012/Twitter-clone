@@ -1,0 +1,17 @@
+Backend:-
+
+used mongodb for databse 
+use npm install to install nodemodules
+then npm start
+
+
+
+Frontend :-
+
+used React, tailwind, bootstrap in Frontend
+use npm install to install nodemodules
+then npm start 
+
+
+Databse :
+MONGO = mongodb+srv://kumarsmbikash:9gBy26N4JqloL40U@twitter-cluster.6uc5wwv.mongodb.net/?retryWrites=true&w=majority
